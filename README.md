@@ -1,1 +1,2 @@
-# econlab
+# The Econ Lab
+
